@@ -1,5 +1,5 @@
 - Metaclasses and classes
-- \_\_init___ vs \_\_new__
+- \_\_init__ vs \_\_new__
 
 Ref:
 pluralsight 
