@@ -1,6 +1,7 @@
 - Metaclasses and classes
-- \__init__ vs \__new__
+- \_\_init___ vs \_\_new__
 
 Ref:
-pluralsight \n
+pluralsight 
+
 https://www.youtube.com/watch?v=ur-vdFXOS9o
